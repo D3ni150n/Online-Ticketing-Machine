@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Event
+comment1.params=eventID\ eventName\ ticketMachine
+comment1.target=Event(int,\ java.lang.String,\ TicketMachine)
+comment2.params=
+comment2.target=int\ getEventID()
+comment3.params=
+comment3.target=java.lang.String\ getEventName()
+comment4.params=
+comment4.target=TicketMachine\ getTicketMachine()
+numComments=5

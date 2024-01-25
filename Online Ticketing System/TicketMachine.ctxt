@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicketMachine
+comment1.params=
+comment1.target=void\ createAccount()
+comment2.params=
+comment2.target=void\ createEvent()
+comment3.params=
+comment3.target=void\ selectEvent()
+comment4.params=
+comment4.target=void\ bookTicket()
+comment5.params=customerID
+comment5.target=Customer\ findCustomerByID(int)
+comment6.params=eventID
+comment6.target=Event\ findEventByID(int)
+comment7.params=customer
+comment7.target=void\ printCustomerDetails(Customer)
+numComments=8
